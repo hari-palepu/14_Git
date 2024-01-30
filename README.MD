@@ -8,3 +8,4 @@ This is the third commit from feature branch.
 
 ### Rebase 
 This is the first commit from rebase branch
+his is the second commit from rebase branch
